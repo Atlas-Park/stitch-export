@@ -1,0 +1,13 @@
+{
+  "name": "seoyun-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stitch 디자인을 기반으로 만든 정적 개인 프로필 웹사이트",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
